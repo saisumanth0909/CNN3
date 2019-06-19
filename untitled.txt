@@ -1,0 +1,1 @@
+wget https://storage.googleapis.com/wandb-production.appspot.com/qualcomm/dogcat-data.tgz

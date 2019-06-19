@@ -1,4 +1,4 @@
 [default]
-entity: rahuldave
-project: test-transfer
+entity: univai-ss2019
+project: CNN3
 base_url: https://api.wandb.ai
